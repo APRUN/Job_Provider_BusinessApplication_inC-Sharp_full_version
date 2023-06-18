@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Job_Provider_BusinessApplication_inC_Sharp_full_version.DL.EmployeeList">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAIAAAAAABAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>DL\EmployeeList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Job_Provider_BusinessApplication_inC_Sharp_full_version.DL.JobList">
+    <Position X="4.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgABAAAAIAAAAAABAAQAAgAAAAAAAAAEAAAA=</HashCode>
+      <FileName>DL\JobList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Job_Provider_BusinessApplication_inC_Sharp_full_version.DL.UserList">
+    <Position X="2.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAEAAAAAAIAAAACAgQAAAAAAAAAA=</HashCode>
+      <FileName>DL\UserList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

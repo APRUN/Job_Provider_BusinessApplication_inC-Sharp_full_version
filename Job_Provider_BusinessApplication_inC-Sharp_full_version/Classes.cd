@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Job_Provider_BusinessApplication_inC_Sharp_full_version.BL.Employee" Collapsed="true">
+    <Position X="8.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAAAIgAAAQAgQIQAAAAAjAgAAAAUAAABAABAAEAAAAA=</HashCode>
+      <FileName>BL\Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Job_Provider_BusinessApplication_inC_Sharp_full_version.BL.FileManagement">
+    <Position X="1.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQCBAAAAAAAAAAIAAAAAAAAAAAABAAAAAAAAABAAA=</HashCode>
+      <FileName>BL\FileManagement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Job_Provider_BusinessApplication_inC_Sharp_full_version.BL.Full_Time">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\Full_Time.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Job_Provider_BusinessApplication_inC_Sharp_full_version.BL.Internship">
+    <Position X="3.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\Internship.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Job_Provider_BusinessApplication_inC_Sharp_full_version.BL.Job" Collapsed="true">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAKAAAIAAAAAAAASAQCMEAAgCCAACAIQEAABAA=</HashCode>
+      <FileName>BL\Job.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Job_Provider_BusinessApplication_inC_Sharp_full_version.BL.PartTime">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\PartTime.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Job_Provider_BusinessApplication_inC_Sharp_full_version.BL.User">
+    <Position X="11" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAEAAAAAAAgAAAAAABAAAAAEAAAAAAAAwgAABAA=</HashCode>
+      <FileName>BL\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Job_Provider_BusinessApplication_inC_Sharp_full_version.DL.EmployeeList">
+    <Position X="5.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAIAAAAAABAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>DL\EmployeeList.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="employees" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Job_Provider_BusinessApplication_inC_Sharp_full_version.DL.JobList">
+    <Position X="1.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgABAAAAIAAAAAABAAQAAgAAAAAAAAAEAAAA=</HashCode>
+      <FileName>DL\JobList.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="jobs" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Job_Provider_BusinessApplication_inC_Sharp_full_version.DL.TextList">
+    <Position X="13" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAACAAAAAAAAAAQAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>DL\TextList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Job_Provider_BusinessApplication_inC_Sharp_full_version.DL.UserList">
+    <Position X="8.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAEAAAAAAIAAAACAgQAAAAAAAAAA=</HashCode>
+      <FileName>DL\UserList.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="users" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Job_Provider_BusinessApplication_inC_Sharp_full_version.UI.AppUI">
+    <Position X="9.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BABAAAAAAAEQIEGQAAAAAAAAGAAAAAAAEAAAIAAAgAA=</HashCode>
+      <FileName>UI\AppUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Job_Provider_BusinessApplication_inC_Sharp_full_version.UI.EmployeeUI">
+    <Position X="5.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>UI\EmployeeUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Job_Provider_BusinessApplication_inC_Sharp_full_version.UI.JobUI">
+    <Position X="7.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAABAAMCEABAwAAAAAAIAQAIAAAAAAAAIAQAAAAAA=</HashCode>
+      <FileName>UI\JobUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Job_Provider_BusinessApplication_inC_Sharp_full_version.UI.MenuUI">
+    <Position X="1.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAIAgQAAAAAQAAACAA=</HashCode>
+      <FileName>UI\MenuUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Job_Provider_BusinessApplication_inC_Sharp_full_version.UI.UserUI">
+    <Position X="3.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAEBAAAAAAAAAEgAAAAAAAA=</HashCode>
+      <FileName>UI\UserUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
